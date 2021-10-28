@@ -9,7 +9,7 @@ def parsedate(time_as_a_unix_timestamp):
 
 # RQ3
 def orario(lista):
-    dataset_sub = pd.read_csv("dataset/" + "steam_reviews.csv",
+    dataset_sub = pd.read_csv("steam_reviews.csv",
                       index_col=0,
                       usecols=[0,6],
                       parse_dates=['timestamp_created'],
@@ -33,8 +33,4 @@ def orario(lista):
 
 # RQ4
 def filtro(data, lingue):
-    # creating a new dataframe with data columns
-    a = pd.DataFrame(columns = data.columns)
-    for i in range(len(lingue)):
-        a = pd.concat([a, data[data.language == lingue[i]]])
-    return a
+    return data[data.language.isin(lingue)]

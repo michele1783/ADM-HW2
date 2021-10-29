@@ -32,5 +32,5 @@ def orario(lista):
     plt.show()
 
 # RQ4
-def filtro(data, lingue):
+def get_reviews_by_languages(data, lingue):
     return data[data.language.isin(lingue)]

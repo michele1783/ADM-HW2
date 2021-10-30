@@ -25,7 +25,8 @@ In this github repository we stored the files written for the second Homework of
                 - How many of these applications where purchased, and how many where given for free?
         
             3. [RQ3]:
-                - What is the most common time that authors review an application? For example, authors usually write a review at 17:44.
+                - What is the most common time that authors review an application? For example, authors usually write a 
+                  review at 17:44.
                 - Create a function that receives as a parameter a list of time intervals and returns the plot the number of reviews for each of the intervals
                 - Use the function just created to plot the number of reviews between different time intervals.
     

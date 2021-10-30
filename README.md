@@ -7,12 +7,31 @@ In this github repository we stored the files written for the second Homework of
 ### File and Scripts descriptions
 1. __`main.ipynb`__:
   > This is the notebook where we have developed our answers to all the research questions and theoretical questions. We have already runned all the notebook.
+    Research Questions
+			1. [RQ1]: Exploratory Data Analysis (EDA)
+			  - Application more reviewed 
+			  - Correlation matrix
+			  - Time and Language
+			  - Viral Comments
+			  - Games more played
+			  - Active players
+			  - Languages and subplots
+			2. [RQ2]:
+        - Plot the number of reviews for each application in descending order.
+      3. [RQ3]:
+  	  4. [RQ4]: 
+      5. [RQ5]:
+      6. [RQ6]:
+      7. [RQ7]:
+      8. [RQ8]:
+    Theoretical Questions 
+			1. [TQ1]:  
+			2. [TQ2]:
+      3. [TQ3]:
+      
 2. __`functions.py`__:
   > Python script in which we have written the useful functions to solve the RQ3, RQ4 and the function *parsedate* to transform the unix timestamps.
 3. __`images\`__: 
   > Directory where are stored images used in the theoretical questions.
 4. __`Theoretical Question.pdf`__: 
   > pdf file where we have elaborated the Theoretical questions. But we have also added these answers at the end of the notebook. 
-
-
-

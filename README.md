@@ -9,40 +9,68 @@ In this github repository we stored the files written for the second Homework of
   > This is the notebook where we have developed our answers to all the research questions and theoretical questions. We have already runned all the notebook.
     
         Research Questions
-			1. [RQ1]: Exploratory Data Analysis (EDA)
-			  	- Application more reviewed 
-			  	- Correlation matrix
-			  	- Time and Language
-			  	- Viral Comments
-			  	- Games more played
-			  	- Active players
-			  	- Languages and subplots
+		1. [RQ1]: Exploratory Data Analysis (EDA)
+			- Application more reviewed 
+			- Correlation matrix
+			- Time and Language
+			- Viral Comments
+			- Games more played
+			- Active players
+			- Languages and subplots
 			  
-			2. [RQ2]:
-                		- Plot the number of reviews for each application in descending order.
-                		- What applications have the best Weighted Vote Score?
-                		- Which applications have the most and least recommendations
-                		- How many of these applications where purchased, and how many where given for free?
+		2. [RQ2]:
+                	- Plot the number of reviews for each application in descending order.
+                	- What applications have the best Weighted Vote Score?
+                	- Which applications have the most and least recommendations
+                	- How many of these applications where purchased, and how many where given for free?
 	
-            3. [RQ3]:
-                - What is the most common time that authors review an application? For example, authors usually write a review at 17:44.
-                - 
+		3. [RQ3]:
+                	- What is the most common time that authors review an application? For example, authors usually write a review at 17:44.
+                	- 
+			- 
       
-            4. [RQ4]: 
+            	4. [RQ4]:
+			- 
+			- 
+			- 
+			- 
       
-            5. [RQ5]:
+            	5. [RQ5]:
+			- 
+			- 
+			- 
+			- 
       
-            6. [RQ6]:
+            	6. [RQ6]:
+			- 
+			- 
             
-            7. [RQ7]:
+            	7. [RQ7]:
+			- 
+			- 
+			- 
       
-            8. [RQ8]:
-        Theoretical Questions 
-            1. [TQ1]:  
+            	8. [RQ8]:
+			- 
+			- 
+			- 
+			- 
+			- 
+        
+	Theoretical Questions 
+            	1. [TQ1]:
+			1. 
+			2. 
+			3. 
 			
-            2. [TQ2]:
+            	2. [TQ2]:
+			1. 
+			2. 
       
-            3. [TQ3]:
+            	3. [TQ3]:
+			- 
+			- 
+			- 
       
 10. __`functions.py`__:
   > Python script in which we have written the useful functions to solve the RQ3, RQ4 and the function *parsedate* to transform the unix timestamps.

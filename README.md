@@ -10,19 +10,19 @@ In this github repository we stored the files written for the second Homework of
     
         Research Questions
 			1. [RQ1]: Exploratory Data Analysis (EDA)
-			  - Application more reviewed 
-			  - Correlation matrix
-			  - Time and Language
-			  - Viral Comments
-			  - Games more played
-			  - Active players
-			  - Languages and subplots
+			  	- Application more reviewed 
+			  	- Correlation matrix
+			  	- Time and Language
+			  	- Viral Comments
+			  	- Games more played
+			  	- Active players
+			  	- Languages and subplots
 			  
 			2. [RQ2]:
-                - Plot the number of reviews for each application in descending order.
-                - What applications have the best Weighted Vote Score?
-                - Which applications have the most and least recommendations
-                - How many of these applications where purchased, and how many where given for free?
+                		- Plot the number of reviews for each application in descending order.
+                		- What applications have the best Weighted Vote Score?
+                		- Which applications have the most and least recommendations
+                		- How many of these applications where purchased, and how many where given for free?
 	
             3. [RQ3]:
                 - What is the most common time that authors review an application? For example, authors usually write a review at 17:44.

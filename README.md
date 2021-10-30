@@ -29,28 +29,28 @@ In this github repository we stored the files written for the second Homework of
                 	- 
 			- 
       
-            	4. [RQ4]:
+      		4. [RQ4]:
 			- 
 			- 
 			- 
 			- 
       
-            	5. [RQ5]:
+      		5. [RQ5]:
 			- 
 			- 
 			- 
 			- 
       
-            	6. [RQ6]:
+      		6. [RQ6]:
 			- 
 			- 
             
-            	7. [RQ7]:
+	    	7. [RQ7]:
 			- 
 			- 
 			- 
       
-            	8. [RQ8]:
+      		8. [RQ8]:
 			- 
 			- 
 			- 
@@ -58,16 +58,16 @@ In this github repository we stored the files written for the second Homework of
 			- 
         
 	Theoretical Questions 
-            	1. [TQ1]:
+		1. [TQ1]:
 			1. 
 			2. 
 			3. 
 			
-            	2. [TQ2]:
+		2. [TQ2]:
 			1. 
 			2. 
-      
-            	3. [TQ3]:
+      	
+		3. [TQ3]:
 			- 
 			- 
 			- 

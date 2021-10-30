@@ -7,6 +7,7 @@ In this github repository we stored the files written for the second Homework of
 ### File and Scripts descriptions
 1. __`main.ipynb`__:
   > This is the notebook where we have developed our answers to all the research questions and theoretical questions. We have already runned all the notebook.
+    
     Research Questions
 			1. [RQ1]: Exploratory Data Analysis (EDA)
 			  - Application more reviewed 

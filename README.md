@@ -1,6 +1,8 @@
 # ADM-HW2
 
-In our github repository  we stored the files written for the second Homework of the ADM course.
+![steam](https://www.vortez.net/contentteller.php?ct=news&action=file&id=18653)
+
+In this github repository we stored the files written for the second Homework of the ADM course.
 
 ### File and Scripts descriptions
 1. __`main.ipynb`__:

@@ -8,6 +8,5 @@ In our repository there are many files:
 
 **Homework_2.ipynb** is the notebook where we have developed our answers to all the research questions and theoretical questions. We have already runned all the notebook.
 
-
-
+**images**
 

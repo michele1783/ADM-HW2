@@ -16,18 +16,27 @@ In this github repository we stored the files written for the second Homework of
 			  - Games more played
 			  - Active players
 			  - Languages and subplots
+			  
 			2. [RQ2]:
         - Plot the number of reviews for each application in descending order.
+	
       3. [RQ3]:
-  	  4. [RQ4]: 
+      
+      4. [RQ4]: 
+      
       5. [RQ5]:
+      
       6. [RQ6]:
+      
       7. [RQ7]:
+      
       8. [RQ8]:
     Theoretical Questions 
 			1. [TQ1]:  
+			
 			2. [TQ2]:
-      3. [TQ3]:
+      
+      			3. [TQ3]:
       
 2. __`functions.py`__:
   > Python script in which we have written the useful functions to solve the RQ3, RQ4 and the function *parsedate* to transform the unix timestamps.

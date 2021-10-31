@@ -3,6 +3,11 @@
 ![steam](https://www.vortez.net/contentteller.php?ct=news&action=file&id=18653)
 
 In this github repository we stored the files written for the second Homework of the ADM course.
+### Team Members
+* Michele Luca Puzzo
+* Gianmarco Ursini
+* Clara Lecce
+* Rossella Bailo 
 
 ### File and Scripts descriptions
 1. __`main.ipynb`__:
